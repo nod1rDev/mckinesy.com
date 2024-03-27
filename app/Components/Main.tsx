@@ -21,7 +21,7 @@ function Main() {
           research, and the ever-changing face of our firm.
         </p>
       </div>
-      <div className="flex gap-2 mb-8">
+      <div className="flex gap-2 mb-10">
         <Link
           href={
             "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fmck.co%2F3AirTcu"
@@ -53,7 +53,7 @@ function Main() {
           </span>
         </Link>
       </div>
-      <div className="flex flex-col gap-4 mb-5 md:justify-between md:items-center pb-3 border-b-[0.1px] border-b-gray-300 md:flex-row">
+      <div className="flex flex-col gap-4 mb-5 md:mb-9 md:justify-between md:items-center pb-3 md:pb-6 border-b-[0.1px] border-b-gray-300 md:flex-row">
         <h1 className="font-[600] text-black">BROWSE ALL POSTS</h1>
         <div className="flex gap-2">
           <span className="font-[300]">Browse by:</span>
